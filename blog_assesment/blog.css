@@ -1,0 +1,28 @@
+.body-wrapper {
+  border:25px solid #bdc3c7;
+  font-family: 'Open Sans', sans-serif;
+  float: left;
+  margin:1% 17%;/* first numer for top & bottom margin nad the second for right and left*/
+}
+
+.functional-unit-wrapper{
+  border-bottom:1px solid #bdc3c7;
+  margin:3%;
+}
+
+.functional-unit-wrapper>h2{
+  color: #2c3e50;
+}
+
+.functional-unit-wrapper>time{
+  color:#3498db;
+  font-weight: bold;
+}
+.functional-unit-wrapper>p{
+  font-size: 15px;
+  font-weight: 600;
+}
+.first-para{
+  border-left: 2px solid #bdc3c7;
+  padding-left: 4px;
+}

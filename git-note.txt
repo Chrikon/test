@@ -8,3 +8,8 @@
      β.  git config --replace-all user.name "Chrikon"
 
 3.ΣΟΣ Τα παραπάνω μπορούν να πραγματοποιήθουν και από το Git Bash
+
+4.github token "11c67fadfee2680e9a289c2c8866accf313700ea"
+
+git config --global user.email "GIT SERVICE EMAIL" - Sets your email globally for Git.
+git config --global user.name "GIT SERVICE NAME (NOT USERNAME)" - Sets your name globally for Git.
